@@ -1,1 +1,1 @@
-# cloudera-mapreduce
+# Cloudera MapReduce
